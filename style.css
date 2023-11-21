@@ -12,7 +12,8 @@ form{
 }
 .book{
     color: crimson;
-    margin-left: 26%;
+    background-color: black;
+    margin-left: 25%; margin-right: 32%;
 }
 .take{
     color: rgb(45, 2, 75)
